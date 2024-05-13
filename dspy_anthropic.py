@@ -90,3 +90,5 @@ print(predict)
 
 result = predict(question="What is the morphological annotation of the following sentence?\n Ær Cristes geflæscnesse lx wintra Gaius Iulius se casere ærest Romana Brytenland gesohte")
 print(result)
+
+claude.history
